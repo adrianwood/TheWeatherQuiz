@@ -1,0 +1,10 @@
+<resources >
+    <string name="app_name">WeatherIQ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">WeatherIQ</string>
+    <string name="title_activity_login">WeatherIQ</string>
+    <color name="orange">#FF8300</color>
+    <string name="theme_type">Theme</string>
+    <string name="quiz_button">End Quiz</string>
+</resources>
